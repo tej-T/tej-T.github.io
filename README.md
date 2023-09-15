@@ -1,4 +1,8 @@
-## About Me
+# PORTFOLIO
+
+<br><br>
+
+### About Me
 As a curious young lab, I often found myself in situations so bizzare, looking back i would call them ***IMPOSSIBLE***.
 Curiosity is a blessing, for without it, i would neither have found my love for books, nor would have experienced countless tales of bravery, psalms of unwavering devotion, songs that fueled hope or the legends that sent chills down my spine.
 <br><br>
