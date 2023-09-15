@@ -1,5 +1,12 @@
 ---
 title: Nagasurya Tirunagaru
+logo: "/images/logo.jpg?raw=true" #
+description: > #text below
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/suryatirunagaru/">View My LinkedIn Profile</a> 
 show_downloads: false
 theme: jekyll-theme-minimal
 ...
